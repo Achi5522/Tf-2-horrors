@@ -1,3 +1,3 @@
-# Tf-2-horrors
+# Tf2-horrors
 
-Some guides/informations about tf2 ghosts.
+Some informations about some of the many tf2 ghosts out there.
